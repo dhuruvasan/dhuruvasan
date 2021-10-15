@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhuruvasan
 - 👀 I’m interested in Programing and space technologys
 - 🌱 I’m currently learning New trends in programing
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on develop my career
 - 📫 How to reach me dhuruvasandh320@gmail.com
 
 <!---
