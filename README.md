@@ -8,9 +8,9 @@ I am more interested on problem solving and programming.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dhuruvasandh320@gmail.com](mailto:dhuruvasandh320@gmail.com)
-* 🚀  I'm currently working on [Zero knowledge proofs Authentication](http://github.com/dhuruvasan/ZKP-Login-System)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Full stack developer
+* 🚀  I'm currently working on ZOHO
+* 🧠  I'm learning Mobile management 
+* 🤝  I'm open to collaborating on Full stack developer
 
 ### Skills
 
